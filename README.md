@@ -13,7 +13,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo" />
   </div> 
 
- ## Minhas redes Sócias
+ ## Minhas Redes Sócias
   <div> 
     <a href="https://portifolio-asolipa1.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/asolipa1" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
@@ -28,6 +28,6 @@
 
   <div align="center">
 
-  <sub>Made with love by <a href="https://portifolio-asolipa1.vercel.app/" target="_blank">@asolipa0<a> ❤️</sub>  
+  <sub>Made with love by<a href="https://portifolio-asolipa1.vercel.app/" target="_blank">@asolipa0<a>❤️</sub>  
   <img height="20px" src="https://user-images.githubusercontent.com/49994083/189573872-f81a164a-de54-4536-a520-5e5124cf9653.png">
 </div>
